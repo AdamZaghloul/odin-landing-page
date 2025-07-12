@@ -1,2 +1,2 @@
 # odin-landing-page
-Building a landing page from scratch
+Building a landing page from scratch with HTML and CSS.
